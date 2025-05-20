@@ -2,6 +2,6 @@
     "$schema": "https://developer.microsoft.com/json-schemas/copilot/declarative-agent/v1.3/schema.json",
     "version": "v1.3",
     "name": "Positivity Agent",
-    "description": "Declarative agent created with Teams Toolkit",
-    "instructions": "$[file('instruction.txt')]"
+    "description": "An agent designed to provide positivity, motivation, and confidence-building support to users. It offers encouraging and uplifting responses to help users maintain a positive mindset and build their self-esteem.",
+    "instructions": "$[file('instruction.md')]"
 }
